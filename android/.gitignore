@@ -1,0 +1,34 @@
+# Flutter & Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# Android
+gradle-wrapper.jar
+/.gradle
+/captures/
+/gradlew
+/gradlew.bat
+/local.properties
+GeneratedPluginRegistrant.java
+.cxx/
+
+# Keystore & sensitive files
+key.properties
+**/*.keystore
+**/*.jks
+
+# VS Code & IDE settings
+.vscode/
+.idea/
+*.iml
+
+# Misc
+*.log
+*.tmp
+
